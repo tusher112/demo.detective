@@ -1,0 +1,33 @@
+.navbar{
+    background-color: lightgreen;
+    color: lightgreen;
+    
+    
+}
+.logo-hover{background-color:rgb(33, 95, 33);box-shadow: 10px 10px 30px red;
+                    }
+p {font-family: 'Times New Roman', Times, serif}
+.meno-hover:hover{background-color:green;}
+
+body{background-color: lightblue;
+background-image: url('bg.jpg');}
+
+
+.about-section{display: flex; margin-left: 5%; }
+
+.about-div1{width: 40%;
+            font-size: large;
+            
+        
+        }
+.about-div2{padding-bottom: 5%; width: 40%;padding-left:15%; box-shadow: 10px 10px 40 px black;
+        }
+
+    
+        .h1-design{color: rgb(226, 104, 17);}
+
+    .footer-section{color:whitesmoke;text-align: center;background-color:gray;padding-top: 2%;}
+
+
+    #service-meno{margin-left: 5%;}
+    .h3-design{background-color: rgb(240, 241, 150);display: flex;color: rgb(33, 95, 33);}
