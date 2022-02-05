@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
     $error_msg['psw'] = "Password should contains at least eight characters, including at least one number and includes both lower and uppercase letters and special characters.";
   }
 
-  // $error_msg='';
+  
   if(!$error_msg){
     $db = new mysqli("localhost", "root", "", "validation");
 
